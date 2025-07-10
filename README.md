@@ -34,7 +34,7 @@ This project implements an incompressible fluid simulation solving the Navier-St
    ```
 
 2. Configure the project specifying:
-- `CMAKE_PREFIX_PATH`: the root directory where you installed the Mimir library (contiene sus headers y libs)
+- `CMAKE_PREFIX_PATH`: the root directory where you installed the Mimir library
 - `MIMIR_SHADER_DIR`: the directory containing Mimir shaders 
    ```bash
    cmake .. \
